@@ -10,8 +10,6 @@ Information and description:
 Stuff to install:
 ```
 sudo apt-get install libreadline-dev 
-
-
 ```
 
 
