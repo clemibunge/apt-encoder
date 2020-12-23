@@ -7,6 +7,14 @@ Information and description:
 * https://www.sigidwiki.com/wiki/Automatic_Picture_Transmission_%28APT%29
 * https://noaasis.noaa.gov/NOAASIS/pubs/Users_Guide-Building_Receive_Stations_March_2009.pdf
 
+Stuff to install:
+```
+sudo apt-get install libreadline-dev 
+
+
+```
+
+
 
 ```
 NOAA automatic picture transmission (APT) encoder
